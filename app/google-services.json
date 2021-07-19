@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784383620433",
+    "project_id": "notes-app-5206f",
+    "storage_bucket": "notes-app-5206f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784383620433:android:39fdf460430c962984cf70",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784383620433-3sm6dk7l419j5mqm222e2q2esltaifqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA-cef11tnjtYV5AX5N6qHlcmJcuQiyWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784383620433-3sm6dk7l419j5mqm222e2q2esltaifqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
